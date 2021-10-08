@@ -82,6 +82,10 @@ nav.navbar-transparente {
 	
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
+
 /* Estrutura conteúdos
 ---------------------------------*/
 .caixa {
@@ -90,7 +94,7 @@ nav.navbar-transparente {
 }
 
 #servicos {
-	background: white;
+	background: #f2f2f2;
 }
 
 #recursos {
